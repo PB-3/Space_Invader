@@ -1,0 +1,69 @@
+﻿  Eleve.cpp
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(134,14): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(144,16): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(146,16): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(158,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(190,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(195,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(199,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(203,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(214,42): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(264,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(266,89): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(266,70): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(266,51): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(266,32): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(309,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(324,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(334,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(348,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(352,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(361,8): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(363,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(366,25): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(388,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(390,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(392,108): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(392,89): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(392,70): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(392,42): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(407,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(409,99): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(409,80): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(409,61): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(409,37): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(417,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(419,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(421,118): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(421,94): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(421,70): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(421,42): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(430,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(432,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(434,118): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(434,94): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(434,70): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(434,42): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(443,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(445,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(447,115): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(447,93): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(447,70): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(447,42): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(457,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(459,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(461,107): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(461,85): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(461,62): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(461,38): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(475,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(477,91): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(477,71): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(477,51): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(477,32): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(548,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(553,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(633,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(635,34): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\rajte\Desktop\JeuLibre_cpp\Eleve.cpp(635,22): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  G2D.vcxproj -> C:\Users\rajte\Desktop\JeuLibre_cpp\Debug\G2D.exe
